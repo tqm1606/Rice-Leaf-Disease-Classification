@@ -16,7 +16,7 @@ Image classification of **eight rice-leaf classes**, created for the private FPT
 |---|---|---:|---|
 | Internal validation (304 images) | Accuracy | **95.39%** (290/304) | Notebook classification report / confusion matrix |
 | Internal validation (304 images) | Macro F1 | **0.9469** | Notebook classifier comparison |
-| Kaggle hidden test | **Private Macro F1-Score** | **0.77641** | **0.77641** | Screenshot taken from the private Kaggle notebook page |
+| Kaggle hidden test | **Private Macro F1-Score** | **0.77641** | [Kaggle score screenshot](results/kaggle_private_score.png) | |
 
 ![Validation confusion matrix](results/confusion_matrix.png)
 
